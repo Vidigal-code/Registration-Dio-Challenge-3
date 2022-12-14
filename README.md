@@ -19,7 +19,7 @@ Repositório reservado para o Bootcamp Orange Tech +, uma parceria [Inter](https
 
 ## Registration-Dio-Challenge-3:
 <p align="center">
-<a href="" target="_blank">Click Here to view the Project</a>
+<a href="https://vidigal-code.github.io/Registration-Dio-Challenge-3/" target="_blank">Click Here to view the Project</a>
 </p>
 <br/>
 <img align="center" src="https://github.com/Vidigal-code/Registration-Dio-Challenge-3/blob/main/src/assets/dio.gif?raw=true" alt="dio"/>
