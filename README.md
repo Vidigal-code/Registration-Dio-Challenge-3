@@ -22,7 +22,7 @@ Repositório reservado para o Bootcamp Orange Tech +, uma parceria [Inter](https
 <a href="" target="_blank">Click Here to view the Project</a>
 </p>
 <br/>
-<img align="center" src="" alt=""/>
+<img align="center" src="https://github.com/Vidigal-code/Registration-Dio-Challenge-3/blob/main/src/assets/dio.gif?raw=true" alt="dio"/>
 
 
 # Getting Started with Create React App
