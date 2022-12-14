@@ -34,7 +34,7 @@ const Header = ({autenticado}: IHeader) => {
                 <Link href="/login">
                 <Button  title="Entrar" />
                 </Link>
-                <Link href="/registration">
+                <Link href="/Registration-Dio-Challenge-3/">
                 <Button title="Cadastrar" />
                 </Link>
               </>)}

@@ -17,7 +17,7 @@ function App() {
      <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/login" element={<Login/>}/>
-        <Route path="Registration-Dio-Challenge-3/" element={<Registration/>}/>
+        <Route path="/Registration-Dio-Challenge-3/" element={<Registration/>}/>
         <Route path="/feed" element={<Feed/>}/>
         <Route path="/recoverPassword" element={<RecoverPassword/>}/>
      </Routes >

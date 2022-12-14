@@ -64,7 +64,7 @@ const RecoverPassword = () => {
                 <SubtitleRecoverDesc>Ainda não tem uma conta gratuíta?</SubtitleRecoverDesc>
                 </Row>
                 <RowRecoverDesc>
-                        <RecoverText><Link href="/registration">
+                        <RecoverText><Link href="/Registration-Dio-Challenge-3/">
                        Criar Conta</Link></RecoverText>
                      </RowRecoverDesc>
                 </Wrapper>

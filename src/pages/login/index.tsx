@@ -68,7 +68,7 @@ const Login = () => {
                 </form>
                 <Row>
                 <Link href="/recoverPassword"><EsqueciText>Esqueci minha senha</EsqueciText></Link>
-                    <Link href="/registration"><CriarText>Criar Conta</CriarText></Link>
+                    <Link href="/Registration-Dio-Challenge-3/"><CriarText>Criar Conta</CriarText></Link>
                 </Row>
                 </Wrapper>
             </Column>
