@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Registration-Dio-Challenge-3/static/js/main.dd2bcd3b.js",
+    "main.js": "/Registration-Dio-Challenge-3/static/js/main.a4679670.js",
     "static/media/banner.png": "/Registration-Dio-Challenge-3/static/media/banner.9ab4ead1c68ede88f1ce.png",
     "index.html": "/Registration-Dio-Challenge-3/index.html",
-    "main.dd2bcd3b.js.map": "/Registration-Dio-Challenge-3/static/js/main.dd2bcd3b.js.map"
+    "main.a4679670.js.map": "/Registration-Dio-Challenge-3/static/js/main.a4679670.js.map"
   },
   "entrypoints": [
-    "static/js/main.dd2bcd3b.js"
+    "static/js/main.a4679670.js"
   ]
 }
